@@ -62,7 +62,7 @@ Muchas aplicaciones de ejemplo únicamente muestran una interfaz visual sin func
 ## 📸 Evidencias
 
 ### Pantalla principal
-![Pantalla principal](Proyecto_03_ReproductorMusica/Capturas/pantalla_inicio.png)
+![Pantalla principal](PortafolioMoviles_DulceReyes/Proyecto_03_ReproductorMusica/Capturas/pantalla_inicio.png)
 
 ### Reproduccion de Musica
 ![Pantalla principal](Proyecto_03_ReproductorMusica/Capturas/reproduciendo_musica.png)
