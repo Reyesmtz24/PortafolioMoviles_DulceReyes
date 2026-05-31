@@ -62,16 +62,16 @@ Muchas aplicaciones de ejemplo únicamente muestran una interfaz visual sin func
 ## 📸 Evidencias
 
 ### Pantalla principal
-![Pantalla principal](PortafolioMoviles_DulceReyes/Proyecto_03_ReproductorMusica/Capturas/pantalla_inicio.png)
+![Pantalla principal](Capturas/pantalla_inicio.png)
 
-### Reproduccion de Musica
-![Pantalla principal](Proyecto_03_ReproductorMusica/Capturas/reproduciendo_musica.png)
+### Reproducción de música
+![Reproducción de música](Capturas/reproduciendo_musica.png)
 
-### Lista de Canciones
-![Pantalla principal](Proyecto_03_ReproductorMusica/Capturas/lista_canciones.png)
+### Lista de canciones
+![Lista de canciones](Capturas/lista_canciones.png)
 
-### Controles de Reproduccion
-![Pantalla principal](Proyecto_03_ReproductorMusica/Capturas/controles_reproduccion.png)
+### Controles de reproducción
+![Controles de reproducción](Capturas/controles_reproduccion.png)
 
 ---
 
