@@ -81,7 +81,47 @@ Muchas aplicaciones de ejemplo únicamente muestran una interfaz visual sin func
 
 2. Abrir la carpeta del proyecto en **Visual Studio Code** o **Android Studio**.  
 
-3. Verificar que Flutter esté instalado correctamente ejecutando en la terminal:  
+3. Verificar que Flutter esté instalado correctamente ejecutando en la terminal: 
 
 ```bash
 flutter doctor
+```
+
+4.  Instalar las dependencias ejecutando:
+
+```bash
+flutter pub get
+```
+
+5. Ejecutar la aplicación mediante:
+
+```bash
+flutter run
+```
+
+6. Seleccionar una canción de la lista y utilizar los controles para reproducir, pausar, reiniciar o cambiar de pista.
+
+## Resultados Obtenidos
+
+Se desarrolló un reproductor de música completamente funcional que permite reproducir canciones almacenadas localmente dentro de la aplicación. La interfaz muestra la portada, el nombre de la canción, el artista correspondiente y una barra de progreso actualizada en tiempo real. Además, se implementó una lista de reproducción interactiva y un fondo dinámico con efecto de desenfoque que mejora la experiencia visual del usuario
+
+## Reflexión Personal
+
+### ¿Qué aprendí?
+
+Aprendí a utilizar Flutter para crear aplicaciones móviles más completas, integrar paquetes externos para la reproducción de audio y trabajar con recursos multimedia almacenados en la carpeta assets. También reforcé mis conocimientos sobre el manejo de estados y la construcción de interfaces dinámicas
+
+### ¿Qué fue difícil?
+
+Uno de los principales desafíos fue comprender cómo interactúan los diferentes widgets para construir toda la interfaz del reproductor. También fue necesario configurar correctamente los archivos de audio e imágenes para que Flutter pudiera reconocerlos y utilizarlos sin errores.
+
+Aprendí a utilizar Flutter para crear aplicaciones móviles más completas, integrar paquetes externos para la reproducción de audio y trabajar con recursos multimedia almacenados en la carpeta assets. También reforcé mis conocimientos sobre el manejo de estados y la construcción de interfaces dinámicas
+
+### ¿Qué mejoraría?
+
+Me gustaría agregar nuevas funciones como control de volumen, reproducción aleatoria, modo repetición, favoritos y reproducción en segundo plano para ofrecer una experiencia más completa al usuario. También mejoraría el diseño visual agregando más animaciones y opciones de personalización.
+
+
+
+
+
