@@ -67,17 +67,14 @@ Muchas aplicaciones de ejemplo iniciales se limitan a interfaces estáticas o lo
 
 ## 📸 Evidencias
 
-### Pantalla principal (GeneratorPage)
+### Pantalla principal 
 ![Pantalla principal](Capturas/pantalla_inicio.png)
 
 ### Generación de palabras
-![Generación de palabras](Capturas/generacion_palabras.png)
+![Generación de palabras](Capturas/palabras_generadas.png)
 
-### Guardado de favoritos (Botón Like)
-![Guardado de favoritos](Capturas/guardado_favoritos.png)
-
-### Apartado de tus favoritos (FavoritesPage)
-![Apartado de tus favoritos](Capturas/apartado_favoritos.png)
+### Apartado de tus favoritos 
+![Apartado de tus favoritos](Capturas/favoritos.png)
 
 ---
 
