@@ -1,4 +1,4 @@
-# 🎵 Proyecto 3: Mini Reproductor de Música en Flutter
+# 🎵 Proyecto_03 : Mini Reproductor de Música en Flutter
 
 ---
 
