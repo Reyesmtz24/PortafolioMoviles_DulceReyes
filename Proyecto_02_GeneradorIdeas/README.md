@@ -80,11 +80,31 @@ Muchas aplicaciones de ejemplo iniciales se limitan a interfaces estáticas o lo
 
 ## 🚀 Instrucciones de ejecución
 
-1. Descargar o clonar la carpeta del proyecto `generador_ideas` en tu computadora.  
+1. Descargar o clonar la carpeta del proyecto `generador_ideas` en tu computadora.
 
-2. Abrir la carpeta del proyecto en **Visual Studio Code**.  
+```bash
+git clone <URL_DEL_REPOSITORIO>
 
-3. Verificar que Flutter esté instalado correctamente ejecutando en la terminal:  
+```
+
+3. Abrir la carpeta del proyecto en **Visual Studio Code**.  
+
+4. Verificar que Flutter esté instalado correctamente ejecutando en la terminal:  
 
 ```bash
 flutter doctor
+
+```
+
+4.  Instalar las dependencias ejecutando:
+
+```bash
+flutter pub get
+
+```
+
+5. Ejecutar la aplicación mediante:
+
+```bash
+flutter run
+```
