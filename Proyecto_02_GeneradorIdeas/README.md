@@ -108,3 +108,21 @@ flutter pub get
 ```bash
 flutter run
 ```
+
+## Resultados Obtenidos
+
+Se desarrolló un generador de ideas completamente funcional que permite crear y visualizar combinaciones de palabras aleatorias en inglés a través de una aplicación web. La interfaz muestra una tarjeta central estilizada con el término actual, botones interactivos para avanzar o marcar un "Like", y un menú de navegación lateral responsivo que se adapta al tamaño de la pantalla. 
+
+## Reflexión Personal
+
+### ¿Qué aprendí?
+
+Aprendí a desarrollar una aplicación multiplataforma con Flutter, comprendiendo el uso de widgets, la navegación entre pantallas y la gestión de estados globales mediante Provider y MyAppState. También asimilé cómo integrar paquetes externos como english_words para la generación dinámica de palabras y cómo compilar y probar con éxito el proyecto en un entorno web utilizando Microsoft Edge.
+
+### ¿Qué fue difícil?
+
+Lo más complicado fue entender la jerarquía y el comportamiento responsivo de widgets como LayoutBuilder y NavigationRail para estructurar correctamente el menú lateral. Asimismo, al principio me costó trabajo coordinar el índice de navegación con la lógica de estados para asegurar que la interfaz reaccionara de inmediato al pulsar los botones usando notifyListeners().
+
+### ¿Qué mejoraría?
+
+Implementaría persistencia de datos local (con SharedPreferences o una base de datos) para que los favoritos no se borren al cerrar o recargar el navegador. También agregaría microanimaciones fluidas al cambiar de palabra en la tarjeta (BigCard), una función para copiar las ideas directamente al portapapeles y soporte para generar palabras en otros idiomas además del inglés.
