@@ -77,11 +77,16 @@ Muchas aplicaciones de ejemplo únicamente muestran una interfaz visual sin func
 
 ## 🚀 Instrucciones de ejecución
 
-1. Descargar o clonar el proyecto en tu computadora.  
+1. Descargar o clonar el proyecto en tu computadora.
 
-2. Abrir la carpeta del proyecto en **Visual Studio Code** o **Android Studio**.  
+ ```bash
+   git clone <URL_DEL_REPOSITORIO>
 
-3. Verificar que Flutter esté instalado correctamente ejecutando en la terminal: 
+```
+
+3. Abrir la carpeta del proyecto en **Visual Studio Code** o **Android Studio**.  
+
+4. Verificar que Flutter esté instalado correctamente ejecutando en la terminal: 
 
 ```bash
 flutter doctor
