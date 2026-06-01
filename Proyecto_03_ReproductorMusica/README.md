@@ -23,11 +23,16 @@ Muchas aplicaciones de ejemplo únicamente muestran una interfaz visual sin func
 
 ## 🧰 Tecnologías utilizadas
 
-- Flutter: Desarrollo de la interfaz gráfica y estructura de la app  
-- Dart: Lenguaje principal para la lógica del reproductor  
-- Visual Studio Code: Entorno de desarrollo  
-- just_audio: Reproducción de audio  
-- rxdart: Manejo de eventos y flujos de datos  
+- Flutter: Desarrollo de la interfaz gráfica y estructura de la app
+  
+- Dart: Lenguaje principal para la lógica del reproductor
+  
+- Visual Studio Code: Entorno de desarrollo
+  
+- just_audio: Reproducción de audio
+  
+- rxdart: Manejo de eventos y flujos de datos
+   
 - GitHub: Control de versiones y respaldo del proyecto  
 
 ---
@@ -35,12 +40,19 @@ Muchas aplicaciones de ejemplo únicamente muestran una interfaz visual sin func
 ## 📚 Conceptos aplicados
 
 - Programación orientada a objetos: La utilicé para organizar el código mediante clases y objetos.
-- StatefulWidget: Lo utilicé para actualizar la interfaz cuando cambia la canción o el estado de reproducción.  
-- Manejo de estados: Permitió reflejar en pantalla los cambios que ocurren durante la reproducción.  
-- Assets: Los utilicé para almacenar y cargar imágenes y archivos de audio.  
-- ListView.builder: Lo utilicé para generar automáticamente la lista de canciones.  
-- Slider: Permitió mostrar y controlar el avance de la canción.  
-- ImageFilter.blur: Lo utilicé para crear el efecto de fondo borroso y mejorar el diseño visual.  
+  
+- StatefulWidget: Lo utilicé para actualizar la interfaz cuando cambia la canción o el estado de reproducción.
+  
+- Manejo de estados: Permitió reflejar en pantalla los cambios que ocurren durante la reproducción.
+  
+- Assets: Los utilicé para almacenar y cargar imágenes y archivos de audio.
+  
+- ListView.builder: Lo utilicé para generar automáticamente la lista de canciones.
+  
+- Slider: Permitió mostrar y controlar el avance de la canción.
+  
+- ImageFilter.blur: Lo utilicé para crear el efecto de fondo borroso y mejorar el diseño visual.
+  
 - Manejo de eventos: Lo apliqué para responder a las acciones del usuario sobre los botones del reproductor.  
 
 ---
