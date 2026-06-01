@@ -1,4 +1,4 @@
-# 💡 Proyecto: Generador de Ideas en Flutter 
+# 💡 Proyecto_02 : Generador de Ideas en Flutter 
 
 ---
 
