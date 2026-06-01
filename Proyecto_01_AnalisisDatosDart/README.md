@@ -83,20 +83,19 @@ Muchas organizaciones y sistemas almacenan información en formato JSON, pero no
 ### Menú principal
 ![Menú principal](Capturas/menu_principal.png)
 
-### Carga de datos
+### Opcion 1 - Carga de datos
 ![Carga de datos](Capturas/carga_datos.png)
 
-### Búsqueda por nombre
+### Opcion 3 - Búsqueda por nombre
 ![Búsqueda por nombre](Capturas/busqueda_nombre.png)
 
-### Filtrado por edad
+### Opcion 4 - Filtrado por edad
 ![Filtrado por edad](Capturas/filtro_edad.png)
 
-### Estadísticas generadas
+### Opcion 5 - Estadísticas generadas
 ![Estadísticas](Capturas/estadisticas.png)
 
-### Exportación de datos
-![Exportación de datos](Capturas/exportacion_datos.png)
+
 
 ---
 
